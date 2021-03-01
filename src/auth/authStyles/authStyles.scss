@@ -1,0 +1,21 @@
+.hidden{
+    display: none
+}
+
+.block{
+    display: block
+}
+
+input{
+    outline: none;
+}
+.default__class{
+    border: 1px solid black;
+}
+.error__class{
+    border: 1px solid red;
+}
+
+.valid__class{
+    border: 1px solid green;
+}
